@@ -10,4 +10,4 @@ Specifically, only the "Staff Economic Outlook" section has been identified and 
 
 **Approach**
 
-*The corpus was first pre-processed and tokenized using the NLTK library
+* The corpus was first pre-processed and tokenized using the NLTK library
