@@ -15,6 +15,6 @@ Specifically, only the "Staff Economic Outlook" section has been identified and 
 
 **Results**
 
-Upon identification of the top 3 most probable topics per document, the results seem promising for instance:
+Upon identification of the top 3 most probable topics per document, the results seem promising. For instance:
 * The topic related to the Covid-19 pandemic has high document topic probability in most 2020 minutes
 * The government stimulus program, which is the US government's response to the 2008 financial crisis, had high document topic probability in several 2009 minutes
