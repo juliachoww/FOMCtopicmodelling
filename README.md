@@ -5,7 +5,7 @@ With current (2023-2024) interest rates standing at 22 year highs, the Federal R
 **Dataset**
 
 The dataset comprises of 121 FOMC meeting minutes documents spanning 15 years from 2009 to 2024.
-Specifically, only the "Staff Economic Outlook" section has been identified and extracted for topic modelling purposes.
+Specifically, only the "Staff Economic Outlook" section has been identified and extracted (using regex) for topic modelling purposes.
 
 **Approach**
 
